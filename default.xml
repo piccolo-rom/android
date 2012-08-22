@@ -273,9 +273,9 @@
 
   <project path="android" name="CyanogenMod/android" />
   
-  <project path="device/lge/msm7x27-common" name="piccolo-rom/android_device_lge_msm7x27-common" remote="github" revision="ics" />
-  <project path="device/lge/p500" name="piccolo-rom/android_device_lge_p500" remote="github" revision="ics" />
-  <project path="device/lge/p500" name="piccolo-rom/android_device_lge_p505" remote="github" revision="master" />
-  <project path="kernel/lge/msm7x27" name="piccolo-rom/lge-kernel-msm7x27" remote="github" revision="ics" />
-  <project path="vendor/lge" name="piccolo-rom/android_vendor_lge" remote="github" revision="ics" />
+  <project path="device/lge/msm7x27-common" name="lgics/android_device_lge_msm7x27-common" remote="github" revision="ics" />
+  <project path="device/lge/p500" name="lgics/android_device_lge_p500" remote="github" revision="ics" />
+  <project path="device/lge/p500" name="lgics/android_device_lge_p505" remote="github" revision="master" />
+  <project path="kernel/lge/msm7x27" name="lgics/lge-kernel-msm7x27" remote="github" revision="ics" />
+  <project path="vendor/lge" name="lgics/android_vendor_lge" remote="github" revision="ics" />
 </manifest>
